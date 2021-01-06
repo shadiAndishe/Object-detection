@@ -1,4 +1,4 @@
-# AML_final_project
+# Object detection
 
 > For this project I use the GPU of kaggle so we created 4 different notebook. Every notebook contains the code for the part described in its title.
 
